@@ -1,4 +1,4 @@
-# README
+# Angular 2 and Rails 5 Bootcamp Freelancer "project" part 2 of 3
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
